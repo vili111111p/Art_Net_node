@@ -14,7 +14,7 @@ Qty,Value,Link,Supplier,LCSC,Price,Order Qty. (becouse of MOQ),Price
 4,SM712-02HTG,https://www.lcsc.com/product-detail/C172881.html,LSCS,C172881,$0.2374 ,5,$1.19 
 4,DIN-323PP,https://www.lcsc.com/product-detail/C309317.html,LSCS,C309317,$0.6509 ,4,$2.60 
 2,BLM18SG121TN1D,https://www.lcsc.com/product-detail/C113030.html,LSCS,C113030,$0.0351 ,20,$0.70 
-1,ME6211C33M5G-N,https://www.lcsc.com/product-detail/C82942.html,LSCS,C82942,$0.0471 ,100,$4.71 
+1,ME6211C33M5G-N,https://www.lcsc.com/product-detail/C82942.html,LSCS,C82942,$0.0471 ,10,$0.47 
 1,GREEN,https://www.lcsc.com/product-detail/C12065.html,LSCS,C12065,$0.0329 ,20,$0.66 
 1,RED,https://www.lcsc.com/product-detail/C125099.html,LSCS,C125099,$0.0169 ,50,$0.85 
 1,FS8205A,https://www.lcsc.com/product-detail/C2830320.html,LSCS,C2830320,$0.0459 ,10,$0.46 
@@ -49,3 +49,4 @@ Qty,Value,Link,Supplier,LCSC,Price,Order Qty. (becouse of MOQ),Price
 1,25MHz,https://www.lcsc.com/product-detail/C124306.html,LSCS,C124306,$0.1405 ,5,$0.70 
 1,5000mAh,https://www.aliexpress.com/item/1005010642051383.html,Aliexpress,,$11.4100 ,1,$11.41 
 1,,,JLCPCB,,$6.8000 ,1,$6.80 
+,,,,,,Price,$63.36
