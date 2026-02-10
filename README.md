@@ -17,6 +17,25 @@ It has two layers, on both of them are components. Its controlled with an ESP32 
 Schematic
 <img width="1235" height="657" alt="image" src="https://github.com/user-attachments/assets/4dae3abf-bf46-41ae-8d97-e0304c7402e1" />
 
+POE
+<img width="1112" height="767" alt="image" src="https://github.com/user-attachments/assets/9606aab5-45ae-4a8b-b7d2-bfe42a715465" />
+
+USB-C
+<img width="343" height="234" alt="image" src="https://github.com/user-attachments/assets/a50a2175-e9b2-4fa4-87d5-660ede2f229c" />
+
+Charger
+<img width="1101" height="760" alt="image" src="https://github.com/user-attachments/assets/e5163cc9-b79d-4fe3-8731-cf15c3bb413b" />
+
+DMX Output
+<img width="1106" height="758" alt="image" src="https://github.com/user-attachments/assets/fdaad4f7-5447-476c-8c19-55e9d55a81ee" />
+
+Control interface
+<img width="428" height="293" alt="image" src="https://github.com/user-attachments/assets/9d51994a-9623-462f-84a3-d41936b43f83" />
+
+
+
+
+
 
 PCB
 <img width="691" height="358" alt="image" src="https://github.com/user-attachments/assets/b857b9e2-5205-4cd8-bf99-d14856ded5c6" />
